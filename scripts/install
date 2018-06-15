@@ -94,7 +94,7 @@ fi
 
 # Copy files to the right place
 mkdir -p $final_path
-cp ../sources/accounts.zip $final_path/accounts.zip
+wget http://uwezolearning.com/accounts.zip -P $final_path/
 unzip $final_path/accounts.zip -d $parent_dir > /dev/null
 chmod -R 755 $final_path/accounts/storage
 
