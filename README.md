@@ -1,2 +1,1 @@
-# invoiceninja_dfy
-InvoiceNinja Integration Solution for iBeads
+# Deify Infocomm Solutions Custom Integration for Accounts for Debian Stretch
